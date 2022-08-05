@@ -1,9 +1,9 @@
 #  terraform {
 #    backend "s3" {
-#     bucket = "avinash-terraform-state"
-#     key    = "state.tfstate"
-#     region = "us-west-2"
-#     profile = "jespo"
+#     bucket = "ssa-terraform-meci"
+#     key    = "Successam.tfstate"
+#     region = "us-east-1"
+#     profile = "Mercy"
 # dynamodb_table= "firstprojecttable"
 #    }
 #  }
